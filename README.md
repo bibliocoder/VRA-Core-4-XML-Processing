@@ -4,6 +4,8 @@ A script written in Python 3 that loads a VRA Core 4 XML file, iterates through 
 
 XML samples were taken from the VRA Core Support Pages and are not included here, you may download them separately: http://core.vraweb.org/vracore_examples.html
 
+Tested with Python 3.7.5 on Windows 10 and Python 3.8.0 on Ubuntu 16.04 LTS.
+
 ## License
 This software is released under the [MIT License](LICENSE).
 
